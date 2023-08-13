@@ -90,3 +90,5 @@ setInterval(() => {
   console.log('new stocks %s ms', Date.now() - start);
 
 }, 10000);
+
+module.exports = app;
